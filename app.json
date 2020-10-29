@@ -4,6 +4,7 @@
   "logo": "https://i.imgur.com/odDO1Fx.png",
   "repository": "https://github.com/rauchg/slackin",
   "keywords": ["node", "slack"],
+  "stack": "heroku-18",
   "env": {
     "SLACK_SUBDOMAIN": {
       "description": "Your Slack's subdomain (**this**.slack.com)",
